@@ -1,0 +1,5 @@
+{
+  "name": "InstaAudit",
+  "description": "Analyze your Instagram data to find out who isn't following you back. Secure, client-side processing.",
+  "requestFramePermissions": []
+}
